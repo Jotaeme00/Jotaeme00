@@ -15,8 +15,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-muniz-b695132b6/)
 
 <!-- GithubStats -->
-![Jotaeme00 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jotaeme00&show_icons=true&theme=graywhite)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jotaeme00&show_icons=true&theme=graywhite)](https://github.com/Jotaeme00/github-readme-stats)
+![Jotaeme00 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jotaeme00&show_icons=true&theme=prussian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jotaeme00&show_icons=true&theme=prussian)](https://github.com/Jotaeme00/github-readme-stats)
 
 
 ## 🔥 Skills
